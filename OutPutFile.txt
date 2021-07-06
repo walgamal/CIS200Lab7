@@ -1,0 +1,25 @@
+Enter first word: Wasim
+Enter second word: Algamal
+
+word 1: 
+'A' occured 1 times;
+'I' occured 1 times;
+'M' occured 1 times;
+'S' occured 1 times;
+'W' occured 1 times;
+
+word 2: 
+'A' occured 3 times;
+'G' occured 1 times;
+'L' occured 2 times;
+'M' occured 1 times;
+
+combined: 
+'A' occured 4 times;
+'G' occured 1 times;
+'I' occured 1 times;
+'L' occured 2 times;
+'M' occured 2 times;
+'S' occured 1 times;
+'W' occured 1 times;
+
